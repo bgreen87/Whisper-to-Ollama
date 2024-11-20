@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "Whisper-to-Ollama",
+	"name": "Whisper to Ollama",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "This plugin enables embedded audio files to be transcribed in Whisper and then futher modified in Ollama on locally hosted instances.",
+	"author": "Brian Green",
+	"authorUrl": "https://github.com/bgreen87",
 	"isDesktopOnly": false
 }

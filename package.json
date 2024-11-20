@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "whisper-to-ollama",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "This plug in allows audio files to be sent to locally hosted Whisper and Ollama services for transcription and further processing.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
